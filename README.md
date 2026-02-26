@@ -8,6 +8,10 @@ This project provides a user interface for playing or previewing music content i
 This repository contains a web application built with React and Vite.  
 It demonstrates basic concepts for modern frontend development, including component-based UI, state management, and bundling with Vite.
 
+## Back-End Repository
+
+You can find the backend here:  
+https://github.com/aplascenm/music
 
 ## Features
 
